@@ -1,1 +1,1 @@
-# Data-Science-Appraoch-for-Differenial-Plots
+# Data-Science-Approach-for-Differential-Plots
