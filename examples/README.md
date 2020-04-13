@@ -1,2 +1,2 @@
-This directory consists examples for processing the data and generating 
+This directory consists examples showing how to  process the data and generate 
 descriptors.
