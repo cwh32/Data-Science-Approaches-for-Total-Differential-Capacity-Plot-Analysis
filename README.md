@@ -1,4 +1,4 @@
-## Data-Science-Approaches-for-Total-Differential-Capacity-Plot-Analysis <img align="center" src="images/UW_ChemE.jpg" width="150"> 
+## Data-Science-Approaches-for-Total-Differential-Capacity-Plot-Analysis <img align="center" src="images/UW_ChemE.jpg" width="100"> 
 ### Documentiation and demonstration of the "chachies" directory
 The objective of this GitHub repository is to show the documentation and demonstration of the codes in the "chachies" repository.
 
