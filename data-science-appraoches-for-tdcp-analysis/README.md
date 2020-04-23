@@ -2,7 +2,7 @@
 This is a directory containing the essential python files, including
 
 - app.py 
-constructs the DASH based app imports the databasewrappers.py file and uses that file as the "connection" between the app and the data processing 
+-- constructs the DASH based app imports the databasewrappers.py file and uses that file as the "connection" between the app and the data processing 
 - chachifuncs.py 
 does the majority cleaning, and calculating dQ/dV from raw files, and uses the databasefuncs.py file functions to save that cleaned data in the database
 - databasefuncs.py 
