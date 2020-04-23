@@ -1,5 +1,7 @@
 ## docs 
-There are 5 documentations for each functions in this directory, and each documentation shows all the functions in the corresponding py file and briefly illustrates the usages of each functions.
+
+### Documentations
+There are 5 jupyter notebooks serving as documentations for each functions in this repository, and each documentation shows all the functions in the corresponding Python file and briefly illustrates the usages of each functions, including its inputs and outputs.
 
 #### chachifuncs.ipynb
 documentations for chachifuncs.py
