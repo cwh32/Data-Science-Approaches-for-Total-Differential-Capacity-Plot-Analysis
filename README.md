@@ -28,9 +28,10 @@ descriptors.ipynb
 ```
 
 ### Demonstrations
-There are 2 jupyter notebooks files in the "examples" directory, serving as the demonstrations for the main process of this analysis, including
+There are 3 jupyter notebooks files in the "examples" directory, serving as the demonstrations for the main process of this analysis, including
 ```
 process_data_example.ipynb
+detailed_steps_example.ipynb
 machine_learning_example.ipynb
 ```
 
