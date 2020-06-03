@@ -414,7 +414,7 @@ class fitters:
 
         # converts voltage data to numpy array
 
-        sigx = pd.to_numeric(V_series).as_matrix()
+        sigx = (pd.to_numeric(V_series)).to_frame().as_matrix()
 
         # descriminates between charge and discharge cycle
         if cd == 'c':
